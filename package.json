@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Sage/ez-tedious.git"
+    "url": "git://github.com/Sage-ERP-X3/ez-tedious.git"
   },
   "engines": {
     "node": ">=4.0.0"
